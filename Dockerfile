@@ -9,4 +9,3 @@ RUN echo 'Hi, I am in your container' \
 CMD [ "nginx", "-g", "daemon off;" ]
 
 EXPOSE 80
-
